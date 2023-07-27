@@ -1,0 +1,63 @@
+body{
+  font-family: Arial;
+  background-color: #f4f4f4 ;
+  padding: 1.875rem;
+  color: #333;
+  background-image: url(./pxfuel.jpg);
+  background-color: bisque;
+  background-position: center;
+  background-size: cover;
+}
+
+.app{
+  max-width: 600px;
+  margin:0 auto 300px;
+  background-color: #F0EEF0;
+  padding: 1.25rem 1.875rem;
+  border-radius: 0.625rem;
+}
+h1{
+  text-align: center;
+}
+h2{
+  margin-bottom: 10px;
+}
+p{
+  margin: 0.625rem 0;
+}
+input{
+  box-sizing: border-box;
+}
+
+button{
+  background-color: #333974;
+  color: #fff;
+  padding: 0.3125rem 0.625rem;
+  border: none;
+  border-radius: 0.1875rem;
+  cursor: pointer;
+  opacity: .8;
+  transition: .3s;
+}
+button:hover{
+   opacity: 1;
+}
+
+.complete{
+  background-color:#5cb85c ;
+}
+.remove{
+  background-color: #d9534f;
+}
+
+.todo-form{
+  padding-bottom:1.5rem ;
+}
+input, select{
+  padding: 5px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  width: 100%;
+}
+
