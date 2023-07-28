@@ -18,7 +18,7 @@ const TodoForm = () => {
         <form onSubmit={handleSubmit}>
             <input type="text"
             placeholder='Digite o Titulo'
-            value={value}
+            value={value} 
             onChange={(e) => setValue(e.target.value)} 
             />
             <select value={category} onChange={(e) => setCategory(e.target.value)}>
