@@ -29,6 +29,7 @@ input{
   box-sizing: border-box;
 }
 
+
 button{
   background-color: #333974;
   color: #fff;
@@ -75,5 +76,21 @@ input, select{
   border: 0.0625rem solid #ddd;
   border-radius: 0.1875rem;
   width: 100%;
+}
+
+.filter, .search{
+  border-bottom: 1px solid #555;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+}
+.filter-options{
+  display: flex;
+  justify-content: space-between;
+  gap: 3rem;
+}
+
+
+.filter-options div{
+  flex: 1 1 0;
 }
 
