@@ -2,6 +2,9 @@
 
 # Lista de Tarefas - Gerenciando suas tarefas de forma simples
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/112256751/262823331-5e3d5b60-8a5e-4ed4-9a3e-4f80af665af7.png" width="810" alt="Picture of the app of a toDo List"/>
+</p>
 Seja bem-vindo ao projeto **Lista de Tarefas**! Este é um aplicativo que permite gerenciar suas tarefas diárias de maneira simples e eficiente. Com uma interface intuitiva, você pode manter o controle das tarefas pendentes, concluídas e ainda por fazer.
 
 ## 💡 Destaques
